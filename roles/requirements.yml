@@ -1,0 +1,7 @@
+---
+
+roles:
+  - name: rclone
+    src: git+https://github.com/demonpig/ansible-role-rclone
+    version: v0.1.0-alpha
+    scm: git
